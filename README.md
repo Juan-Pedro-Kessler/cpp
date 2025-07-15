@@ -198,7 +198,7 @@ proyecto-final/
 │   ├── Dockerfile.dev          
 │   ├── package.json           
 │   ├── server.js               
-│   ├──controllers 
+│   ├── controllers/
 │   ├── models/                 
 │   └── routes/                 
 │
