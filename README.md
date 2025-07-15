@@ -240,6 +240,50 @@ Este archivo describe brevemente la función de cada ruta relacionada con produc
 
 ---
 
+### 📈 Vistas de la página:
+
+---
+
+### 🔍 Barra de búsqueda
+
+Permite buscar productos por:
+
+- 🏷️ **Nombre**
+- 📂 **Categoría**
+
+---
+
+### ➕ Agregar productos
+
+Botón que despliega un formulario con los siguientes campos:
+
+- ✏️ **Nombre**
+- 📁 **Categoría**
+- 📝 **Descripción**
+- 💲 **Precio**
+- 📦 **Stock**
+
+---
+
+### 🧾 Visualización de productos
+
+Sección donde se listan todos los productos. Cada producto puede:
+
+- ✏️ **Editar** sus datos
+- ❌ **Eliminarse**
+- 🔄 **Modificar su stock**
+
+---
+
+### ⚙️ Filtros de visualización
+
+Opciones disponibles:
+
+- 🔍 **Buscar por categoría**
+- 📃 **Mostrar todos los productos**
+
+
+
 ## ✨ Autor
 
 Proyecto realizado por el grupo 32.
