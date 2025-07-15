@@ -57,8 +57,6 @@ Funcionalidades Principales
 
 Este archivo `.env` contiene las variables de entorno necesarias para que la aplicación funcione correctamente en modo desarrollo.
 
-> 📌 **Importante:** No compartas este archivo con datos reales. Usá un archivo `.env.example` con valores genéricos y agregá `.env` al `.gitignore`.
-
 ---
 
 ## 📦 ¿Qué contiene este archivo?
