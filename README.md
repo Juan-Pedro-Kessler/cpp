@@ -51,7 +51,6 @@ Funcionalidades Principales
 
 ---  
 
-### Archivo ".env"
 
 # ⚙️ Documentación del archivo `.env`
 
@@ -198,7 +197,8 @@ proyecto-final/
 │   ├── Dockerfile.dev          
 │   ├── package.json           
 │   ├── server.js               
-│   ├── models/                 
+│   ├── models/
+│   ├── controllers/                 
 │   └── routes/                 
 │
 ├── database/
