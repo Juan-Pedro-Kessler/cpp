@@ -76,12 +76,12 @@ Este `.env` está organizado por secciones según los servicios utilizados en el
 
 Estas variables configuran el contenedor o servicio de PostgreSQL:
 
-```env
+
 POSTGRES_DB=app_database               # Nombre de la base de datos a crear
 POSTGRES_USER=app_user                 # Usuario administrador de la base
 POSTGRES_PASSWORD=app_password         # Contraseña del usuario
 
-```env
+
 # ===========================================
 # BASE DE DATOS POSTGRESQL
 # ===========================================
